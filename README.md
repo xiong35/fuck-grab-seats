@@ -17,8 +17,10 @@
               \             \
 ```
 
+您也可以自行编辑其中的文件，自定义您的问候语句或者场景，或者发起 pr，提交您的设计到本项目
+
 ## 预览
 
 占座.pptx:
 
-![占座.pptx_demo](./imgs/占座.pptx_demo.png)
+![占座.pptx_demo](./imgs/占座_xiong35.pptx-demo.png)
